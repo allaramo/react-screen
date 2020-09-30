@@ -1,0 +1,22 @@
+{
+  "files": {
+    "app.js": "/react-screen-test/static/js/app.675aaf70.chunk.js",
+    "app.js.map": "/react-screen-test/static/js/app.675aaf70.chunk.js.map",
+    "runtime~app.js": "/react-screen-test/static/js/runtime~app.06d5345c.js",
+    "runtime~app.js.map": "/react-screen-test/static/js/runtime~app.06d5345c.js.map",
+    "static/js/2.0811cc38.chunk.js": "/react-screen-test/static/js/2.0811cc38.chunk.js",
+    "static/js/2.0811cc38.chunk.js.map": "/react-screen-test/static/js/2.0811cc38.chunk.js.map",
+    "favicon-16.png": "/react-screen-test/favicon-16.png",
+    "favicon-32.png": "/react-screen-test/favicon-32.png",
+    "favicon.ico": "/react-screen-test/favicon.ico",
+    "index.html": "/react-screen-test/index.html",
+    "manifest.json": "/react-screen-test/manifest.json",
+    "serve.json": "/react-screen-test/serve.json",
+    "static/js/2.0811cc38.chunk.js.LICENSE.txt": "/react-screen-test/static/js/2.0811cc38.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime~app.06d5345c.js",
+    "static/js/2.0811cc38.chunk.js",
+    "static/js/app.675aaf70.chunk.js"
+  ]
+}
